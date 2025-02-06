@@ -2,5 +2,5 @@ streamlit
 opencv-python
 mediapipe
 numpy
-playsound
+pygame
 pillow
